@@ -4,7 +4,7 @@ A beginner-friendly AI application built for a hands-on **Cal Poly CS AI worksho
 
 ## Overview
 
-I developed this project as an interactive workshop for students learning how AI applications connect user interfaces, Python functions, prompts, and external APIs.
+I designed this project as an interactive workshop for students learning how AI applications connect user interfaces, Python functions, prompts, and external APIs.
 
 The project demonstrates the full flow of a simple AI application:
 
