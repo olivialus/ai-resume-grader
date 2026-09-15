@@ -1,0 +1,23 @@
+Casey Morgan
+casey.morgan@example.com | github.com/casey-morgan-demo | linkedin.com/in/casey-morgan-demo
+
+Education
+Metro State University — B.S. Computer Science, expected May 2027 | GPA: 3.8/4.0
+Coursework: Algorithms, Operating Systems, Machine Learning, Databases
+
+Technical Skills
+Python, Java, TypeScript, SQL, React, FastAPI, PostgreSQL, Docker, Git, AWS
+
+Experience
+Software Engineering Intern, BrightPath Labs | Jun 2026–Aug 2026
+- Built FastAPI endpoints and PostgreSQL queries for a student advising platform used by 1,200 students.
+- Reduced dashboard load time by 35% by adding indexes and caching common queries.
+- Wrote 24 unit and integration tests and documented an onboarding guide adopted by 3 teammates.
+
+Projects
+StudySprint — React, TypeScript, FastAPI, PostgreSQL
+- Led a 4-person team to build a study-planning app; deployed it for a campus pilot with 86 users.
+- Implemented calendar synchronization and a recommendation feature that increased weekly task completion from 61% to 74% in pilot feedback.
+
+Open Source Contributor
+- Merged 3 documentation and bug-fix pull requests to a Python education library after code review.

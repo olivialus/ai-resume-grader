@@ -1,0 +1,21 @@
+Jordan Lee
+jordan.lee@example.com | github.com/jordanlee-demo
+
+Education
+Lakeside University — B.S. Computer Science, expected May 2027
+Relevant coursework: Data Structures, Web Development, Databases
+
+Skills
+Python, JavaScript, SQL, Git, HTML/CSS
+
+Projects
+Campus Events Finder | Python, Flask, SQLite
+- Built a web app that lets students search campus events by category and date.
+- Added a small SQLite database and a form for club organizers to submit events.
+
+Experience
+Peer Tutor, Lakeside University | Sep 2025–present
+- Help classmates with introductory Python assignments for 4 hours each week.
+
+Activities
+Member, CS Club; attended two hackathons.
